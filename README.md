@@ -7,7 +7,7 @@ Follow these steps to get the project up and running on your local machine.
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Edgar-Sumabat-Jr/ticket-website.git
+git clone https://github.com/Edgar-Sumabat-Jr/quiz5.git
 
 cd ticket-website
 python -m venv venv
