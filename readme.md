@@ -9,7 +9,7 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/Edgar-Sumabat-Jr/quiz5.git
 
-cd datastalgo
+cd quiz5
 python -m venv venv
 
 venv\scripts\activate
